@@ -173,7 +173,7 @@
 	.intro .textwidget		{color: #b81a7d;padding-top: 21%;text-align:center;padding-bottom: 14%;}
 	.intro .textwidget h1 	{text-transform:uppercase;font-size:40px;margin:0 0 -5px;}
 	.intro .textwidget h2 	{text-transform:uppercase;font-size:23px;margin:0;}
-	.intro .actions			{margin:6px 0 5%;padding:46px 0 0;background:url(../images/separator.jpg) 50% 0 no-repeat;border:none;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;}
+	.intro .actions			{margin: 6px 0 3%;padding: 3% 0 0;background:url(../images/separator.jpg) 50% 0 no-repeat;border:none;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;}
 	.intro .actions .btn		{margin:0 10px;}
 
 	.services							{float:left;width:100%;}
@@ -1112,6 +1112,13 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 			text-align: right; 
 			/*FOR LINK BTN*/
 		}
+		.pink-box img{
+
+			width: 100%;
+			max-width: 100%;
+			/*FOR LINK BTN*/
+		}
+
 
 		.pink-box-23{
 
@@ -1318,7 +1325,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 
 						}
 						.why-choose-right{
-							width: 55%;
+							width: 60%;
 						}
 						.why-choose-right img{
 							width: 100%;
@@ -1418,6 +1425,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 								background: #ffffff !important;
 								display: block;
 								position: fixed;
+								font-family: roboto;
 								z-index: 99;
 							}
 							
